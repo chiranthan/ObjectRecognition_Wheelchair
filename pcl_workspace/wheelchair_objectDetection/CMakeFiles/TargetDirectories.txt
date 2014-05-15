@@ -1,1 +1,0 @@
-/home/developer/pcl_workspace/wheelchair_objectDetection/CMakeFiles/wheelchair_obj.dir
